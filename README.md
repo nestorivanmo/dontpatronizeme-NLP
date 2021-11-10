@@ -22,13 +22,19 @@ The Patronizing and Condescending Language Detection Task is based on the paper 
 2. Multi-label classification::
 	- Given a paragraph, a system must identify which PCL categories express the condescension.
 	- PCL taxonomy categories:
-		- Unbalanced power relations
-		- Shallow solution
-		- Presupposition
-		- Authority voice
-		- Metaphor
-		- Compassion
-		- The poorer, the merrier
+		- **Unbalanced power relations**. By means of the language, the author distances themselves from the community or the situation they are talking about and expresses the will, capacity or responsibility to help them. It is also present when the author entitles themselves to give something positive to others in a more vulnerable situation, especially when what the author concedes is a right which they do not have any authority to decide to give.
+
+		- **Shallow solution**. A simple and superficial charitable action by the privileged community is presented either as life-saving/life-changing for the unprivileged one or as a solution for a deep-rooted problem.
+
+		- **Presupposition** when the author assumes a situation as certain without having all the information or generalises their or somebody else’s experience as a categorical truth without presenting a valid, trustworthy source for it (e.g. a research work or survey). The use of stereotypes or clichés is also considered to be examples of presupposition.
+
+		- **Authority voicev** when the author stands themselves as a spokesperson of the group, or ex-plains or advises the members of a community about the community itself or a specific situation they are living.
+
+		- **Metaphor**. They can conceal PCL, as they cast an idea in another light, making a comparison between unrelated concepts, often with the objective of depicting a certain situation in a softer way. For the annotation of this dataset, euphemisms are considered as an example of metaphors.
+
+		- **Compassion**. The author presents the vulnerable individual or community as needy, raising a feeling of pity and compassion from the audience towards them. It is commonly characterized by the use of flowery wording that does not provide information, but the author enjoys the detailed and poetic description of the vulnerability.
+
+		- **The poorer, the merrier**. The text is focused on the community, especially on how the vulnerability makes them better (e.g. stronger, happier or more resilient) or how they share a positive attribute just for being part of a vulnerable community. People living in vulnerable situations have values to admire and learn from. The message expresses the idea of vulnerability as something beautiful o or poetic. We can think of the typical example of ‘poor people are happier because they don’t have material goods’.
 
 ## PCL
 
